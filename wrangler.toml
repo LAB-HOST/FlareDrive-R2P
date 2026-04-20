@@ -1,4 +1,0 @@
-[[r2_buckets]]
-binding = "BUCKET"      # 与您的代码和现有绑定名称保持一致
-bucket_name = "flaredrive-r2p"
-jurisdiction = "wnam"   # 请根据您存储桶创建时选择的实际地区填写，例如“eu”、“apac”、“wnam”等
