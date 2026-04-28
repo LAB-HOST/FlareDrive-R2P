@@ -31,10 +31,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.aink.com/",
-      blogUrl: "https://blog.aink.com/",
+      homeUrl: "https://www.aink.top/",
+      blogUrl: "https://blog.aink.top/",
       githubUrl: "https://github.com/",
-      emailUrl: "mailto:admin@aink.com"
+      emailUrl: "mailto:admin@aink.top"
     };
   }
 };
